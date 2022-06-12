@@ -1,4 +1,7 @@
 # Cyclegan
+
+这个项目基于我的一个CSDN博客，[Cyclegan生成式对抗网络，使用tensorflow快速实战](https://blog.csdn.net/Exploer_TRY/article/details/81841826?spm=1001.2014.3001.5501)
+
 this is a project of cyclegan.
 
 将图片转换成tfrecords格式
